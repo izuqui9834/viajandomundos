@@ -1,0 +1,14 @@
+.root{
+    --main-color:rgb(90, 90, 249);
+    --secondary-color:rgb(159, 159, 244);
+    --back-graound:rgb(194, 194, 253);
+    --title-text:rgb(0, 0, 0);
+    --emphasis:rgb(0, 7, 42);
+    --border:rgb(48, 48, 245);
+}
+.emphasistitle{
+    color: var(--emphasis);
+}
+.emphasis{
+    background-color: var(--secondary-color);
+}
